@@ -1,0 +1,10 @@
+com\nagarro\productmanagement\servlets\NewUser.class
+com\nagarro\productmanagement\entity\UserEntity.class
+com\nagarro\productmanagement\servlets\Delete.class
+com\nagarro\productmanagement\servlets\UpdateToList.class
+com\nagarro\productmanagement\servlets\LoginType.class
+com\nagarro\productmanagement\servlets\UserSession.class
+com\nagarro\productmanagement\servlets\AddToList.class
+com\nagarro\productmanagement\servlets\Logout.class
+com\productmanagement\hibernateutil\ConnectorDB.class
+com\nagarro\productmanagement\entity\ProductEntity.class
